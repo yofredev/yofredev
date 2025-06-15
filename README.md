@@ -26,7 +26,7 @@
 ## 📫 Contacto
 
 - 💼 LinkedIn: [linkedin.com/in/yofredev](https://linkedin.com/in/yofredev)
-- 📧 Email: yofredev@gmail.com
+- 📧 Email: yofre.developer@gmail.com
 
 ---
 
@@ -58,7 +58,7 @@
 ## 📫 Contact
 
 - 💼 LinkedIn: [linkedin.com/in/yofredev](https://linkedin.com/in/yofredev)
-- 📧 Email: yofredev@gmail.com
+- 📧 Email: yofre.developer@gmail.com
 
 ---
 
@@ -90,7 +90,7 @@
 ## 📫 Contato
 
 - 💼 LinkedIn: [linkedin.com/in/yofredev](https://linkedin.com/in/yofredev)
-- 📧 Email: yofredev@gmail.com
+- 📧 Email: yofre.developer@gmail.com
 .
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
