@@ -25,7 +25,7 @@
 
 ## 📫 Contacto
 
-- 💼 LinkedIn: [linkedin.com/in/yofredev](https://linkedin.com/in/yofredev)
+- 💼 LinkedIn: [linkedin.com/in/yofredev](https://linkedin.com/in/yofredev)](https://www.linkedin.com/in/yofre-velasquez-04395a36b/)
 - 📧 Email: yofre.developer@gmail.com
 
 ---
@@ -57,7 +57,7 @@
 
 ## 📫 Contact
 
-- 💼 LinkedIn: [linkedin.com/in/yofredev](https://linkedin.com/in/yofredev)
+- 💼 LinkedIn: [linkedin.com/in/yofredev](https://linkedin.com/in/yofredev)](https://www.linkedin.com/in/yofre-velasquez-04395a36b/)
 - 📧 Email: yofre.developer@gmail.com
 
 ---
@@ -89,7 +89,7 @@
 
 ## 📫 Contato
 
-- 💼 LinkedIn: [linkedin.com/in/yofredev](https://linkedin.com/in/yofredev)
+- 💼 LinkedIn: [linkedin.com/in/yofredev](https://linkedin.com/in/yofredev)](https://www.linkedin.com/in/yofre-velasquez-04395a36b/)
 - 📧 Email: yofre.developer@gmail.com
 .
 - 🤔 I’m looking for help with ...
